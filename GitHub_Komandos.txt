@@ -1,0 +1,14 @@
+///// PIRMAS KARTAS
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin WEBAS ///////Jei neveikia [https://www.youtube.com/watch?v=uFaYgSVzy3w&ab_channel=Learn%26Share]
+git push -u origin main
+
+
+///// KITI KARTAI
+git status
+git add .
+git commit -m "Pakeitimo komentaras"
+git push
