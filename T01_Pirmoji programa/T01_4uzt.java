@@ -30,14 +30,3 @@ public class Main {
 		}
 	}
 }
-
-
-
-
-
-
-
-4. Modifikuoti daugybos lentelės programą:
-Jeigu vartotojas įveda ženklą "*" atliekama daugyba (kaip seniau)
-Priešingu atveju - dalyba
-5. Daugybos lentelėje dauginti skaičius tol, kol rezultatas neviršys 100. Rezultatui viršijus 100 ribą, baigti skaičiavimus.
